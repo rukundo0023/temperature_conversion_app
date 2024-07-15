@@ -13,9 +13,8 @@ A simple and visually appealing Flutter app for converting temperatures between 
 - Visually appealing interface with gradient background and custom fonts.
 
  Screenshots
+ ![Uploading Screenshot (207).png…]()
 
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
 
 Getting Started
 
